@@ -1,0 +1,8 @@
+{
+  "name": "Portfólio Editor de Vídeo",
+  "description": "Landing page minimalista e cinematográfica para portfólio de editor de vídeo, com vídeos em alta definição, prints dos trabalhos, color grading e área de contato.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
